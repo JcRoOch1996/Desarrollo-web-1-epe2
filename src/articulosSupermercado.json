@@ -1,0 +1,44 @@
+[
+  {
+    "codigo": "cr",
+    "categoria": "carnesRojas",
+    "precio": 2500,
+    "unidad": "kilo"
+  },
+  {
+    "codigo": "cb",
+    "categoria": "carnesBlancas",
+    "precio": 3500,
+    "unidad": "kilo"
+  },
+  {
+    "codigo": "vd",
+    "categoria": "verduras",
+    "precio": 1500,
+    "unidad": "kilo"
+  },
+  {
+    "codigo": "ft",
+    "categoria": "frutas",
+    "precio": 1300,
+    "unidad": "kilo"
+  },
+  {
+    "codigo": "ab",
+    "categoria": "abarrotes",
+    "precio": 1000,
+    "unidad": "unidad"
+  },
+  {
+    "codigo": "pn",
+    "categoria": "panes",
+    "precio": 1200,
+    "unidad": "kilo"
+  },
+  {
+    "codigo": "lc",
+    "categoria": "lacteos",
+    "precio": 1000,
+    "unidad": "unidad"
+  }
+]
